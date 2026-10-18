@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Reverse Engineering**
 
-- 👨‍💻 All of my projects are available at [http://fl1n7.xyz/](http://fl1n7.xyz/)
+- 👨‍💻 All of my projects are available at https://discord.gg/bpaTd9XWZK
 
 - 💬 Ask me about **backend**
 
